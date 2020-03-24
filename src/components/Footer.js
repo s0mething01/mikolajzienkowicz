@@ -9,7 +9,7 @@ import facebookIcon from '../assets/icons/facebook.svg';
 import instagramIcon from '../assets/icons/instagram.svg';
 import githubIcon from '../assets/icons/github.svg';
 import linkedinIcon from '../assets/icons/linkedin.svg';
-import Footerlllustartion from '../assets/illustrations/FooterIllustartion.inline.svg'
+import Footerlllustartion from '../assets/illustrations/footerIllustartion.inline.svg'
 
 const Footer = () => {
     const illustration = useRef(null)
